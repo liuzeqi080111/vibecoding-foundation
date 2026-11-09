@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vibe Coding 项目底座"
+  short_description: "保护已有项目，逐步确认产品事实、协作规则、技术架构与开发里程碑"
+  default_prompt: "使用 $vibecoding-foundation 检查当前项目，保留已有成果，一次一个小问题，建立可验收的协作与开发底座。"
